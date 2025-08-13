@@ -1,0 +1,5 @@
+# Output files from assembler and linker
+*.obj
+*.exe
+*.lst
+*.map
