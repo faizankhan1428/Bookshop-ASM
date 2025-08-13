@@ -43,4 +43,4 @@ This program requires an 80386 or later processor and an assembler like TASM (Tu
 
 ## Author
 
-Your Name
+Muhammad Faizan
